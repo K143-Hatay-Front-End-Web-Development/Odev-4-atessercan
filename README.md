@@ -1,10 +1,22 @@
-# Odev-4
+# Homework - 3
+  Marvel Characters List
 
-## Grup Üyeleri
-- [Ad] [Soyad]
-- [Ad] [Soyad]
-
-## İçerik
-
--[React ile Marvel App Web Uygulaması.pdf](https://github.com/K143-Hatay-Front-End-Web-Development/Odev-4/files/9428469/React.ile.Marvel.App.Web.Uygulamasi.pdf)
+## Live
+- [Marvel Characters](https://odev-4-atessercan-ma8nh7rzg-fen-edebiyat.vercel.app/)
   
+## Project Details
+### Tech Stack:
+- ReactJS
+- React Router
+- axios
+- Context API
+- useReducer
+- Sass
+
+## Scripts
+### Run on Locale
+`npm install` <br/>
+`npm start`
+### Build
+ `npm run build`
+
