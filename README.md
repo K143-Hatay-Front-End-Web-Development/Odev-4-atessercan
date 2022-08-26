@@ -2,7 +2,7 @@
   Marvel Characters List
 
 ## Live
-- [Marvel Characters](https://odev-4-atessercan-ma8nh7rzg-fen-edebiyat.vercel.app/)
+- [Marvel Characters](https://odev-4-atessercan.vercel.app/)
   
 ## Project Details
 ### Tech Stack:
